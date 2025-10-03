@@ -1,0 +1,14 @@
+body { 
+  font-family: 'Arial', sans-serif; 
+  background-color: #f8f9fa; 
+  color: #343a40; 
+}
+.product-image {  
+  min-height: 180px; 
+}
+.cart-badge { 
+  position: absolute; top: -6px; right: -6px; 
+}
+@media (min-width: 768px) { 
+  .hero-height { height: 60vh; } 
+}
