@@ -1,4 +1,4 @@
-# E-Commerce-MERN-v.2
+# E-Commerce-MERN
 feat: cart feature implementation &amp; navigation styling
 
 - Menambahkan fitur cart dengan total harga otomatis dalam format Rupiah
