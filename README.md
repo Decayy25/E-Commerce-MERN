@@ -45,6 +45,7 @@ Menggunakan **TailwindCSS** untuk tampilan modern dan responsive, serta integras
 
 ## 📂 Struktur Proyek
 ---
+```
 ecommerce-app/
 │── backend/ # API dengan Node.js + Express
 │ ├── models/ # Schema MongoDB
@@ -58,7 +59,7 @@ ecommerce-app/
 │ └── ...
 │
 └── README.md
-
+```
 ---
 
 ## 🚀 Cara Menjalankan
